@@ -1,0 +1,20 @@
+#descripción {
+    color:darkorange;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nombre {
+    color: blue;
+    font-size: x-large;
+}
+
+#lista {
+    color: brown;
+    font-size: large;
+}
+
+#dentro_lista {
+    color: darkgreen;
+    font-size: medium;
+}
